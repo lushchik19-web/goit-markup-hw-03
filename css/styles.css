@@ -280,7 +280,7 @@ a {
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 38px 24px;
+  gap: 48px 24px;
 }
 
 .portfolio-item {
