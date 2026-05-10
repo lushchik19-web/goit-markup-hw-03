@@ -1,3 +1,19 @@
+.features-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.features-section-list {
+  display: flex;
+  column-gap: 24px;
+}
+
+.features-section-item {
+  width: 264px;
+  height: 104px;
+  max-width: 264px;
+}
+
 .features-section-subtitle {
   font-weight: 500;
   font-size: 20px;
