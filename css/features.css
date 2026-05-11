@@ -10,7 +10,6 @@
 
 .features-section-item {
   width: 264px;
-  height: 104px;
   max-width: 264px;
 }
 
@@ -19,6 +18,7 @@
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .features-section-text {
